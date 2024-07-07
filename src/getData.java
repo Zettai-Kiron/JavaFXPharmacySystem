@@ -1,14 +1,17 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package pharmacymanagementsystem;
 
 /**
  *
- * @author WINDOWS 10
+ * @authors  Jude Kiron Mensah - 10947803
+            Teye Elisha - 10940920
+            Kelvin Sasu - 10981962
+            Eyram Ampobi - 10977614
+            Gyamfi Caleb Jeff  - 10967054
+            Daniel Elijah Gyan - 10956566
+            Koomson Jojo Emeka - 10954302
  */
+
 public class getData {
     
     public static String username;
