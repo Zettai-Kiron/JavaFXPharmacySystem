@@ -50,7 +50,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Button close;
     
-//    DATABASE TOOLS
+    //   Database Tools
     private PreparedStatement prepare;
     private Connection connect;
     private ResultSet result;
