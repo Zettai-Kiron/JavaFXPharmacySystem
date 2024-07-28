@@ -23,7 +23,7 @@ public class database {
         try{
             Class.forName("com.mysql.jdbc.Driver");
             
-            Connection connect = DriverManager.getConnection("jdbc:mysql://localhost/Agyenkwa", "root", "Jayde1&Afua"); // root is the default username while "" or empty is for the pass
+            Connection connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/Agyenkwa", "root", "Jayde1&Afua");
             return connect;
         }catch(Exception e){e.printStackTrace();}
         return null;

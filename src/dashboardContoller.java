@@ -1,4 +1,3 @@
-
 package pharmacymanagementsystem;
 
 import java.io.File;
@@ -1091,9 +1090,6 @@ public class dashboardContoller implements Initializable {
     public void initialize(URL location, ResourceBundle resources) {
         displayUsername();
         defaultNav();
-//        THATS IT, THANKS FOR WATCHING! HOPE YOU LIKE THIS VIDEO : ) 
-//        SUBSCRIBE AND HIT LIKE BUTTON FOR THE SUPPORT : ) 
-//        THANKS GUYS! <3 
         homeAM();
         homeTI();
         homeTC();

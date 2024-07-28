@@ -1,4 +1,3 @@
-
 package pharmacymanagementsystem;
 
 import java.net.URL;
